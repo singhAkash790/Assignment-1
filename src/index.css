@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200&display=swap');
+@import url('https://fonts.cdnfonts.com/css/montserrat-alternates');
+@import url('https://www.fontzip.com/storage/2018/02/13/zilap-orion-personal-use/webfonts/Zilap Orion Linear Personal Use.css');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @layer base {
+  html {
+    font-family: Montserrat Alternate, system-ui, sans-serif;
+  } */
+/* }s */
+
+
+body {
+  margin: 0;
+  font-family: 'Montserrat Alternates', sans-serif;
+  /* font-family:'Zilap Orion Linear Personal Use' */
+  
+  
+
+
+}
+
+
