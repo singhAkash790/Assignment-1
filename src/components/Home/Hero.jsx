@@ -9,7 +9,7 @@ import {AiFillInstagram} from 'react-icons/ai'
 
 export const Hero = () => {
   return (
-    <div className="h-auto w-[1960px]  bg-cover-pic justify-center  bg-no-repeat bg-cover bg-center ">
+    <div className="h-auto w-[1960px]  bg-cover-pic justify-center  bg-no-repeat bg-cover bg-center overflow-hidden ">
       {/* Logo and header */}
       <div className=" flex justify-between items-center w-[1960] pt-8 px-12  ">
         <img src={LOGO} alt="" className="h-[170px] " />
