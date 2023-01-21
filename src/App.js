@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App">
       <Hero />
-      <div className="bg-gradient-to-r from-black to-black/80 w-max ">
+      <div className="bg-gradient-to-r from-black to-black/80 w-[1920px] ">
         <Heading />
         <Technology />
         <Hotel />
